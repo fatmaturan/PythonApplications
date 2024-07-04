@@ -1,0 +1,2 @@
+# pyhtonuygulamalar-
+pyhton çarpma tablosu
